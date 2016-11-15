@@ -1,0 +1,6 @@
+-Predict School Grade performance across all the schools in NC. 
+- We collected various acpects of data from Web (NC Schools and Mecklenberg County)
+- We performed data cleaning and Tranformation in SAS and Python.
+- We performed variable reduction using PCA-Factor Analysis .
+- We implemented and executed machine learning algorithms in Python to predict and provide recommendations for improving School grade performance.
+
